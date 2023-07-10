@@ -1,8 +1,26 @@
-{
-    "name_cn": "北京大学",
-    "name_en": "Peking University",
-    "address": "北京市海淀区颐和园路5号",
-    "cost": "20000",
-    "redirectLink": "Schools/beijing_university.html",
-    "picture": "Assets/SchoolPic/pku.jpg"
-}
+[
+    {
+        "name_cn": "北京大学",
+        "name_en": "Peking University",
+        "address": "北京市海淀区颐和园路5号",
+        "cost": "20000",
+        "redirectLink": "Schools/beijing_university.html",
+        "picture": "Assets/SchoolPic/pku.jpg"
+    },
+    {
+        "name_cn": "清华大学",
+        "name_en": "Tsinghua University",
+        "address": "北京市海淀区清华大学",
+        "cost": "25000",
+        "redirectLink": "Schools/tsinghua_university.html",
+        "picture": "Assets/SchoolPic/tsinghua.jpg"
+    },
+    {
+        "name_cn": "复旦大学",
+        "name_en": "Fudan University",
+        "address": "上海市杨浦区复旦大学",
+        "cost": "22000",
+        "redirectLink": "Schools/fudan_university.html",
+        "picture": "Assets/SchoolPic/fudan.jpg"
+    }
+]
